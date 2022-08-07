@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Lakshan Viranga
 
-I am Undergraduate, working as DevOps Engineer @ Axiata Digital Labs (Pvt) Ltd
+I am working as Software Engineer @ Axiata Digital Labs (Pvt) Ltd
 
 ## Connect with me
 ---
