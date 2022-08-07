@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Lakshan Viranga
 
-:smile: I am working as Software Engineer @ Axiata Digital Labs (Pvt) Ltd
+:houses: I am working as Software Engineer @ Axiata Digital Labs (Pvt) Ltd
 
-Fresher graduate | UOR
+:man_technologist: Fresher graduate | UOR
 
-Interest in Software development with Cloud computing
+:seedling: Interest in Software development with Cloud computing
 
 ## Connect with me
 ---
